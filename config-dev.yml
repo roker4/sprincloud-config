@@ -1,5 +1,5 @@
 config:
-  info: asdasd devs AS
+  info: crx-config
 spring:
   application:
     name: seata-storage-service
