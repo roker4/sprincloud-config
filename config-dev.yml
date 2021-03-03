@@ -1,5 +1,5 @@
 config:
-  info: asdasd devs AS 
+  info: asdasd devs AS
 spring:
   application:
     name: seata-storage-service
