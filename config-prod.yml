@@ -1,7 +1,7 @@
 server:
   port: 2002
 config:
-  info: asdasd prod
+  info: asdasdprodSSS
 spring:
   application:
     name: seata-storage-service
