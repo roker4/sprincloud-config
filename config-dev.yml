@@ -1,7 +1,7 @@
 server:
   port: 2002
 config:
-  info: asdasd dev
+  info: asdasddevs
 spring:
   application:
     name: seata-storage-service
